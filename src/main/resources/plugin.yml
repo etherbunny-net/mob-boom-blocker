@@ -1,0 +1,7 @@
+name: net.etherbunny.mob-boom-blocker
+version: ${project.version}
+main: net.etherbunny.mbb.MobBoomBlocker
+api-version: 1.16
+website: https://github.com/etherbunny-net/mob-boom-blocker
+authors:
+  - Xandris
